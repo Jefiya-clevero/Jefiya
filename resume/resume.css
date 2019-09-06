@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+}
+table{
+    border: 2.5px solid black;
+    width: 75%;
+    height: 50%;
+}
+th,td{
+    padding: 15px;
+  text-align: left;
+
+}
